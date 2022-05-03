@@ -3,4 +3,3 @@ A dynamic chat application designed for customers to communicate through chats, 
 
 
 
-file:///C:/Users/deepi/Desktop/demo_chat/home.html
